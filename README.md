@@ -5,6 +5,7 @@ To provide a clear and organized introductory overview of Wadi IT Company, showc
 Project Description:
 An HTML-only web page introducing Wadi IT Company, featuring main sections, services, service table, and company images.
 
+
 Implemented Features:
 	•	Section headings (<h1>, <h2>)
 	•	Text paragraphs (<p>) for company info
