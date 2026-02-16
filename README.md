@@ -1,16 +1,15 @@
 # html-task-week2
 Page Goal:
-To provide a clear and organized introductory overview of Wadi IT Company, showcasing its services, workflow, and essential information.
+To present a simple and organized overview of Wadi IT Company and its main services.
 
 Project Description:
-An HTML-only web page introducing Wadi IT Company, featuring main sections, services, service table, and company images.
-
+A basic HTML web page introducing Wadi IT Company, including key sections, services, a table, and images.
 
 Implemented Features:
-	•	Section headings (<h1>, <h2>)
-	•	Text paragraphs (<p>) for company info
-	•	Ordered and unordered lists (<ol>, <ul>) for workflow and services
-	•	Links (<a>) to official site
-	•	Company images (<img>)
-	•	Service details table (<table>)
-	•	Footer (<footer>) for copyright
+	•	Headings (<h1>, <h2>)
+	•	Paragraphs (<p>)
+	•	Ordered & unordered lists (<ol>, <ul>)
+	•	Links (<a>)
+	•	Images (<img>)
+	•	Table (<table>)
+	•	Footer (<footer>)
