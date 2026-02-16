@@ -6,10 +6,9 @@ Project Description:
 A basic HTML web page introducing Wadi IT Company, including key sections, services, a table, and images.
 
 Implemented Features:
-	•	Headings (<h1>, <h2>)
-	•	Paragraphs (<p>)
-	•	Ordered & unordered lists (<ol>, <ul>)
-	•	Links (<a>)
-	•	Images (<img>)
-	•	Table (<table>)
-	•	Footer (<footer>)
+	•	Headings 
+	•	Paragraphs 
+	•	Ordered & unordered lists 
+	•	Links 
+	•	Images 
+	•	Table 
